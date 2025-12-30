@@ -191,7 +191,7 @@
     <tr>
         <td width="256" height="192">
             <a href="mds/topics/游戏程序员职业发展路径.md">游戏程序员职业发展路径</a>
-            <a href="mds/topics/游戏程序员职业发展路径.md"><img src="./images/subjects/subjects.008.jpeg" height="192"></img></a>
+            <a href="mds/topics/游戏程序员职业发展路径.md"><img src="./images/subjects/subjects.007.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
