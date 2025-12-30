@@ -21,7 +21,7 @@
 
 <br/>
 
-> 💡 我们的愿景`<br/><br/>`
+> 💡 我们的愿景 `<br/><br/>`
 > 希望通过这份资料的分享，帮大家在已经有人走过的“老路”上节省时间⏳，把宝贵的精力投入到真正有创造力的事情上🛠️🎨，一起拓展游戏开发这片土地的技术边界 🚀！
 
 <br/>
@@ -254,11 +254,11 @@
 
 欢迎进群、进讨论区交流和分享游戏开发中遇到的问题或者解决方案。
 
-|         |                                                                                                                                                                              |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| QQ群:   | 242500383`` [![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
-|         |                                                                                                                                                                              |
-| 讨论区: | [https://github.com/gonglei007/GameDevMind/discussions](https://github.com/gonglei007/GameDevMind/discussions)                                                                  |
+|         |                                                                                                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| QQ群:   | 242500383``[![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
+|         |                                                                                                                                                                      |
+| 讨论区: | [https://github.com/gonglei007/GameDevMind/discussions](https://github.com/gonglei007/GameDevMind/discussions)                                                          |
 
 <!--
 ## 编辑与查看
