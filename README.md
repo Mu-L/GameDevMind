@@ -21,8 +21,8 @@
 
 <br/>
 
-> 💡 我们的愿景 `<br/><br/>`
-> 希望通过这份资料的分享，帮大家在已经有人走过的“老路”上节省时间⏳，把宝贵的精力投入到真正有创造力的事情上🛠️🎨，一起拓展游戏开发这片土地的技术边界 🚀！
+> 💡 **我们的愿景**  
+> 希望通过这份资料的分享，帮大家在已经有人走过的"老路"上节省时间⏳，把宝贵的精力投入到真正有创造力的事情上🛠️🎨，一起拓展游戏开发这片土地的技术边界 🚀！
 
 <br/>
 
@@ -102,26 +102,28 @@
 
 ---
 
-<table width="100%" border=1>
+<table width="100%" border=1 style="border-collapse: collapse;">
     <tr>
-        <td width="256" height="192">
-        <a href="mds/1.基础能力/1.基础能力.md">1.基础能力</a>
-            <a href="mds/1.基础能力/1.基础能力.md"><img src="./images/subjects/subjects.001.jpeg" height="192"></img></a>
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
+            <a href="mds/1.基础能力/1.基础能力.md">1.基础能力</a>
+            <br/><br/>
+            <a href="mds/1.基础能力/1.基础能力.md"><img src="./images/subjects/subjects.001.jpeg" height="192" alt="基础能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
-            作为一种软件产品，游戏的开发离不开扎实的基础能力。这些能力不仅是通用软件工程的核心技能，也是保障开发效率与项目质量的基石。基础能力越扎实，整个开发流程就越稳定、高效。
+                作为一种软件产品，游戏的开发离不开扎实的基础能力。这些能力不仅是通用软件工程的核心技能，也是保障开发效率与项目质量的基石。基础能力越扎实，整个开发流程就越稳定、高效。
             </div>
             <br/>
             <div align="right"><a href="mds/1.基础能力/1.基础能力.md">[阅读详细内容...]</a></div>
         </td>
     </tr>
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/2.技术能力/2.技术能力.md">2.技术能力</a>
-            <a href="mds/2.技术能力/2.技术能力.md"><img src="./images/subjects/subjects.002.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/2.技术能力/2.技术能力.md"><img src="./images/subjects/subjects.002.jpeg" height="192" alt="技术能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 游戏产品在开发中也有其特定的技术需求，要研发一款游戏产品，会需要具备这些技术能力。
             </div>
@@ -130,11 +132,12 @@
         </td>
     </tr>
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/3.研发能力/3.研发能力.md">3.研发能力</a>
-            <a href="mds/3.研发能力/3.研发能力.md"><img src="./images/subjects/subjects.003.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/3.研发能力/3.研发能力.md"><img src="./images/subjects/subjects.003.jpeg" height="192" alt="研发能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 游戏是一种有艺术成分的商品，它是由数字内容和互动功能构建起来的。开发一款游戏产品，要有跟其它软件产品不同的一系列的技术、方法、工具和流程。
             </div>
@@ -143,11 +146,12 @@
         </td>
     </tr>
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/4.生产能力/4.生产能力.md">4.生产能力</a>
-            <a href="mds/4.生产能力/4.生产能力.md"><img src="./images/subjects/subjects.004.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/4.生产能力/4.生产能力.md"><img src="./images/subjects/subjects.004.jpeg" height="192" alt="生产能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 随着游戏行业的发展，游戏产品的研发规模越来越大，这时候除了产品内容怎么好玩，产品核心功能怎么开发之外，产品如何高效的生产也变得非常重要，这就需要各种工具和方法来提高生产效率。
             </div>
@@ -156,11 +160,12 @@
         </td>
     </tr>
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/5.管理能力/5.管理能力.md">5.管理能力</a>
-            <a href="mds/5.管理能力/5.管理能力.md"><img src="./images/subjects/subjects.005.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/5.管理能力/5.管理能力.md"><img src="./images/subjects/subjects.005.jpeg" height="192" alt="管理能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 管理中最具挑战的是尺度、分寸与随机应变。火候少一分，生了；火候多一分，焦了。追求的是复杂的事情简单化，面对的也可能是简单的事情复杂化。
             </div>
@@ -169,11 +174,12 @@
         </td>
     </tr>
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/6.运营能力/6.运营能力.md">6.运营能力</a>
-            <a href="mds/6.运营能力/6.运营能力.md"><img src="./images/subjects/subjects.006.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/6.运营能力/6.运营能力.md"><img src="./images/subjects/subjects.006.jpeg" height="192" alt="运营能力"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 作为一个组织，不论你有什么样的技术或能力，一个最重要的目标是——赚钱。在当下的市场环境下，一款好玩的游戏做出来了不一定就能够赚钱。因此，具备一定的运营能力也是必不可少的，特别是在当下复杂的市场环境中。（此处仅涵盖与技术相关的部分）
             </div>
@@ -187,13 +193,14 @@
 
 ## 🧑‍💻 游戏程序员职业发展路径
 
-<table width="100%" border=1>
+<table width="100%" border=1 style="border-collapse: collapse;">
     <tr>
-        <td width="256" height="192">
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
             <a href="mds/topics/游戏程序员职业发展路径.md">游戏程序员职业发展路径</a>
-            <a href="mds/topics/游戏程序员职业发展路径.md"><img src="./images/subjects/subjects.007.jpeg" height="192"></img></a>
+            <br/><br/>
+            <a href="mds/topics/游戏程序员职业发展路径.md"><img src="./images/subjects/subjects.007.jpeg" height="192" alt="游戏程序员职业发展路径"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 游戏程序员在不同职业阶段需要具备的能力和职责，以及对应的学习资源。从初级程序员到技术主管，每个阶段都有明确的能力要求和成长路径。
             </div>
@@ -205,14 +212,16 @@
 
 ---
 
-## 游戏研运资产样例-SLG手游（2D）
+## 📊 游戏研运资产样例-SLG手游（2D）
 
-<table width="100%" border=1>
+<table width="100%" border=1 style="border-collapse: collapse;">
     <tr>
-        <td width="256" height="192">
-            <a href="mds/游戏研运资产样例-SLG手游（2D）.md"><img src="./images/subjects/subjects.007.jpeg" height="192"></img></a>
+        <td width="256" height="192" style="padding: 12px; vertical-align: top;">
+            <a href="mds/游戏研运资产样例-SLG手游（2D）.md">游戏研运资产样例-SLG手游（2D）</a>
+            <br/><br/>
+            <a href="mds/游戏研运资产样例-SLG手游（2D）.md"><img src="./images/subjects/subjects.007.jpeg" height="192" alt="游戏研运资产样例-SLG手游（2D）"></img></a>
         </td>
-        <td>
+        <td style="padding: 12px; vertical-align: top;">
             <div align="top">
                 要开发并上线运营一款 SLG 手游（2D），需要准备好并积累下来的全套相关资产清单。可用于辅助评估项目内容、项目成本、项目工作量等，为游戏立项或投资提供参考。
             </div>
@@ -222,43 +231,46 @@
     </tr>
 </table>
 
-## 缩略预览
-
-*[[ 图谱总览 ]](exports/0.总览.png)*
-![图2、这个知识图谱还在持续的补充扩展中](overview/overview-h.png)
-`<br/>`
-
-## 特别鸣谢
+## 📈 缩略预览
 
 <div align="center">
-    <table border=1 style="background:#f6f8fa;">
+
+*[[ 图谱总览 ]](exports/0.总览.png)*
+
+![图2、这个知识图谱还在持续的补充扩展中](overview/overview-h.png)
+
+</div>
+
+## 🙏 特别鸣谢
+
+<div align="center">
+    <table border=1 style="background:#f6f8fa; border-collapse: collapse;">
         <tr>
-            <td align="center" style="background:#ffffff;padding: 0px;">
-                <a href="https://vika.cn?from=gamedevmind" target="_blank"><img src="./images/partners/GameDevMind_Baner/GameDevMind_Baner.001.png" height="128"></img></a>
+            <td align="center" style="background:#ffffff; padding: 12px;">
+                <a href="https://vika.cn?from=gamedevmind" target="_blank"><img src="./images/partners/GameDevMind_Baner/GameDevMind_Baner.001.png" height="128" alt="Vika"></img></a>
             </td>
         </tr>
         <!--tr>
-            <td align="center" style="background:#ffffff;padding: 0px;">
+            <td align="center" style="background:#ffffff; padding: 12px;">
                 <a href="https://www.finclip.com/landing/miniappgame?from=gamedevmind" target="_blank"><img src="./images/partners/GameDevMind_Baner/GameDevMind_Baner.002.png" height="128"></img></a>
             </td>
-    </tr-->
+        </tr-->
         <tr>
-            <td align="center" style="background:#ffffff;padding: 0px;">
-                <a href="https://www.gltop.com?from=gamedevmind" target="_blank"><img src="./images/partners/GameDevMind_Baner/GameDevMind_Baner.004.png" height="128"></img></a>
+            <td align="center" style="background:#ffffff; padding: 12px;">
+                <a href="https://www.gltop.com?from=gamedevmind" target="_blank"><img src="./images/partners/GameDevMind_Baner/GameDevMind_Baner.004.png" height="128" alt="GLTOP"></img></a>
             </td>
         </tr>
     </table>
 </div>
 
-## 交流讨论
+## 💬 交流讨论
 
 欢迎进群、进讨论区交流和分享游戏开发中遇到的问题或者解决方案。
 
-|         |                                                                                                                                                                      |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| QQ群:   | 242500383``[![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
-|         |                                                                                                                                                                      |
-| 讨论区: | [https://github.com/gonglei007/GameDevMind/discussions](https://github.com/gonglei007/GameDevMind/discussions)                                                          |
+| 方式     | 链接/信息                                                                                                                                    |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **QQ群** | 242500383 [![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
+| **讨论区** | [GitHub Discussions](https://github.com/gonglei007/GameDevMind/discussions)                                                                  |
 
 <!--
 ## 编辑与查看
@@ -267,13 +279,18 @@
 * markdown文本内容（/mds/目录）。<br/>
 -->
 
-## 贡献者
+## 👥 贡献者
 
-| [公雷](https://github.com/gonglei007),&emsp; [Atom](https://github.com/gameatom),&emsp; [管仲才](https://github.com/guanzhongcai),&emsp; [王栋](https://github.com/wangdng),&emsp; [KK](https://github.com/manchurio),&emsp; [陈运雄](https://github.com/chenyunxiong),&emsp;[彭静](https://github.com/goddie),&emsp;[宋博](https://github.com/ax-jason),&emsp; [Hardy LYU](https://github.com/Colythme),&emsp;... |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<div align="center">
 
-> 🧑‍💻👩‍💻 欢迎更多开发者一起来参与完善这份图谱！`<br/>`
-> 有你的一星⭐、一 Fork🍴，我们就能走得更远！【虚位以待...】`<br/>`
+感谢所有为这个项目做出贡献的开发者！
+
+[公雷](https://github.com/gonglei007) · [Atom](https://github.com/gameatom) · [管仲才](https://github.com/guanzhongcai) · [王栋](https://github.com/wangdng) · [KK](https://github.com/manchurio) · [陈运雄](https://github.com/chenyunxiong) · [彭静](https://github.com/goddie) · [宋博](https://github.com/ax-jason) · [Hardy LYU](https://github.com/Colythme) · ...
+
+</div>
+
+> 🧑‍💻👩‍💻 **欢迎更多开发者一起来参与完善这份图谱！**  
+> 有你的一星⭐、一 Fork🍴，我们就能走得更远！【虚位以待...】
 
 <!--
 ### Stargazers
@@ -285,14 +302,14 @@
 <br/>
 -->
 
-## 联系我们
+## 📧 联系我们
 
-[-Email-]`<br/>`
+<div align="center">
 
-[gonglei007@hotmail.com](mailto:gonglei007@hotmail.com) [gonglei007@hotmail.com](mailto:gonglei007@hotmail.com)
+**📮 Email:**  
+[gonglei007@hotmail.com](mailto:gonglei007@hotmail.com)
 
-[-微信-]`<br/>`
+**💬 微信:**  
+<img src="images/联系人-G.L.png?raw=true" alt="微信二维码" width="96"/>
 
-<img src="images/联系人-G.L.png?raw=true" alt="drawing" width="96"/>
-
-`<br/><br/>`
+</div>
