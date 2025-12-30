@@ -307,7 +307,7 @@
 <div align="center">
 
 **📮 Email:**  
-[gonglei007@hotmail.com](mailto:gonglei007@hotmail.com)
+[gonglei@gltop.com](mailto:gonglei@gltop.com)
 
 **💬 微信:**  
 <img src="images/联系人-G.L.png?raw=true" alt="微信二维码" width="96"/>
