@@ -1,4 +1,3 @@
-
 <p align="center">
   <h1 align="center">游戏开发-技术图谱</h1>
 <!--
@@ -22,8 +21,8 @@
 
 <br/>
 
-> 💡 我们的愿景<br/><br/>
-希望通过这份资料的分享，帮大家在已经有人走过的“老路”上节省时间⏳，把宝贵的精力投入到真正有创造力的事情上🛠️🎨，一起拓展游戏开发这片土地的技术边界 🚀！
+> 💡 我们的愿景`<br/><br/>`
+> 希望通过这份资料的分享，帮大家在已经有人走过的“老路”上节省时间⏳，把宝贵的精力投入到真正有创造力的事情上🛠️🎨，一起拓展游戏开发这片土地的技术边界 🚀！
 
 <br/>
 
@@ -37,22 +36,22 @@
     <table style="width:640px;">
         <thead style="font-weight: bold; font-style: italic;">
             <tr>
-                <td>&emsp;&emsp;✅ 我们有的 &emsp;&emsp;</td>
-                <td>&emsp;&emsp;❌ 我们没有的 &emsp;&emsp;</td>
+                <td>  ✅ 我们有的   </td>
+                <td>  ❌ 我们没有的   </td>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>&emsp;&emsp; 🎯  是做什么的？在哪用？&emsp;&emsp;</td>
-                <td>&emsp;&emsp; 🚫 <strike>系统化的知识讲解</strike>&emsp;&emsp;</td>
+                <td>   🎯  是做什么的？在哪用？  </td>
+                <td>   🚫 <strike>系统化的知识讲解</strike>  </td>
             </tr>
             <tr>
-                <td>&emsp;&emsp; 🛠️ 会遇到哪些问题？用什么解决？&emsp;&emsp;</td>
-                <td>&emsp;&emsp; 🚫 <strike>具体的实现细节</strike>&emsp;&emsp;</td>
+                <td>   🛠️ 会遇到哪些问题？用什么解决？  </td>
+                <td>   🚫 <strike>具体的实现细节</strike>  </td>
             </tr>
             <tr>
-                <td>&emsp;&emsp; 🔍 要点和思考方向 &emsp;&emsp;</td>
-                <td>&emsp;&emsp; 🚫 <strike>完整的一套解决方案</strike>&emsp;&emsp;</td>
+                <td>   🔍 要点和思考方向   </td>
+                <td>   🚫 <strike>完整的一套解决方案</strike>  </td>
             </tr>
         </tbody>
     </table>
@@ -65,7 +64,9 @@
 
 * [在线阅读](README.md#正文) - 在线阅读，页面中附带了更多参考资料。
 -->
+
 <!-- * [下载pdf版（预览版）](../../releases) - 在一些特定节点制作并发布pdf电子版，更便于本地阅读。-->
+
 <!--
 * [项目历史](HISTORY.md) - 项目的主要节点。
 
@@ -74,6 +75,7 @@
 - 更新README ([96560a9](https://github.com/gonglei007/GameDevMind/commit/96560a90c7adf45404c223539d47fe2a2444501c))## 最近提交
 - 添加update-readme.yml ([e2d83c4](https://github.com/gonglei007/GameDevMind/commit/e2d83c450c6015985de3416e4e114d4a730098f3))
 -->
+
 <!--
 ## 总览
 <br/>
@@ -84,6 +86,7 @@
 <br/>
 
 ## 正文
+
 > 游戏研运在技术方面需要具备的能力
 
 <p>
@@ -94,10 +97,10 @@
 ![](https://img.shields.io/static/v1?label=4&message=生产能力&color=green)
 ![](https://img.shields.io/static/v1?label=5&message=管理能力&color=blue)
 ![](https://img.shields.io/static/v1?label=6&message=运营能力&color=purple)
-  
+
 </p>
 
-----
+---
 
 <table width="100%" border=1>
     <tr>
@@ -184,16 +187,26 @@
 
 ## 🧑‍💻 游戏程序员职业发展路径
 
-| 职级 | 职责 | 所需能力 | 相关资源 |
-|------|------|----------|----------|
-| **初级程序员（Junior Programmer）** | <ul><li>完成简单模块的编码任务</li><li>修复基础功能的 Bug</li><li>协助开发工具的使用与维护</li></ul> | <ul><li>掌握至少一种编程语言（如 C++、C#）</li><li>了解常用数据结构与算法</li><li>熟悉游戏引擎的基本使用（如 Unity、Unreal）</li></ul> | <ul><li>[基础能力图谱](mds/1.基础能力/1.基础能力.md)</li><li>[技术能力图谱](mds/2.技术能力/2.技术能力.md)</li></ul> |
-| **中级程序员（Intermediate Programmer）** | <ul><li>独立负责模块的设计与实现</li><li>优化现有系统的性能</li><li>参与代码评审与技术文档编写</li></ul> | <ul><li>深入理解游戏引擎的工作原理</li><li>具备良好的系统设计能力</li><li>掌握调试与性能分析工具的使用</li></ul> | <ul><li>[研发能力图谱](mds/3.研发能力/3.研发能力.md)</li><li>[生产能力图谱](mds/4.生产能力/4.生产能力.md)</li></ul> |
-| **高级程序员（Senior Programmer）** | <ul><li>主导核心系统的架构设计</li><li>解决复杂的技术难题</li><li>指导初中级程序员的工作</li></ul> | <ul><li>精通多种编程语言与开发框架</li><li>具备跨平台开发经验</li><li>优秀的沟通与团队协作能力</li></ul> | <ul><li>[管理能力图谱](mds/5.管理能力/5.管理能力.md)</li><li>[运营能力图谱](mds/6.运营能力/6.运营能力.md)</li></ul> |
-| **技术主管（Technical Lead）** | <ul><li>制定技术发展方向与标准</li><li>协调各技术团队的工作</li><li>推动技术创新与优化</li></ul> | <ul><li>深厚的技术背景与项目管理经验</li><li>战略思维与决策能力</li><li>出色的领导与沟通技巧</li></ul> | <ul><li>[管理能力图谱](mds/5.管理能力/5.管理能力.md)</li><li>[运营能力图谱](mds/6.运营能力/6.运营能力.md)</li></ul> |
+<table width="100%" border=1>
+    <tr>
+        <td width="256" height="192">
+            <a href="mds/topics/游戏程序员职业发展路径.md">游戏程序员职业发展路径</a>
+            <a href="mds/topics/游戏程序员职业发展路径.md"><img src="./images/subjects/subjects.008.jpeg" height="192"></img></a>
+        </td>
+        <td>
+            <div align="top">
+                游戏程序员在不同职业阶段需要具备的能力和职责，以及对应的学习资源。从初级程序员到技术主管，每个阶段都有明确的能力要求和成长路径。
+            </div>
+            <br/>
+            <div align="right"><a href="mds/topics/游戏程序员职业发展路径.md">[阅读详细内容...]</a></div>
+        </td>
+    </tr>
+</table>
 
 ---
 
 ## 游戏研运资产样例-SLG手游（2D）
+
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
@@ -210,9 +223,10 @@
 </table>
 
 ## 缩略预览
+
 *[[ 图谱总览 ]](exports/0.总览.png)*
 ![图2、这个知识图谱还在持续的补充扩展中](overview/overview-h.png)
-<br/>
+`<br/>`
 
 ## 特别鸣谢
 
@@ -237,14 +251,14 @@
 </div>
 
 ## 交流讨论
+
 欢迎进群、进讨论区交流和分享游戏开发中遇到的问题或者解决方案。
 
-|  |  |
-| --- | -------- |
-| QQ群: | 242500383 <br/> [![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
-|  |  |
-| 讨论区: | [https://github.com/gonglei007/GameDevMind/discussions](https://github.com/gonglei007/GameDevMind/discussions) |
-
+|         |                                                                                                                                                                              |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| QQ群:   | 242500383`` [![GLTOP游戏研发与技术1群](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/cgi-bin/qm/qr?k=fy4Z65nE-5Jd1ay8FkJpDc9iPJyW3d38&jump_from=webapi) |
+|         |                                                                                                                                                                              |
+| 讨论区: | [https://github.com/gonglei007/GameDevMind/discussions](https://github.com/gonglei007/GameDevMind/discussions)                                                                  |
 
 <!--
 ## 编辑与查看
@@ -256,10 +270,10 @@
 ## 贡献者
 
 | [公雷](https://github.com/gonglei007),&emsp; [Atom](https://github.com/gameatom),&emsp; [管仲才](https://github.com/guanzhongcai),&emsp; [王栋](https://github.com/wangdng),&emsp; [KK](https://github.com/manchurio),&emsp; [陈运雄](https://github.com/chenyunxiong),&emsp;[彭静](https://github.com/goddie),&emsp;[宋博](https://github.com/ax-jason),&emsp; [Hardy LYU](https://github.com/Colythme),&emsp;... |
-| :---: |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-> 🧑‍💻👩‍💻 欢迎更多开发者一起来参与完善这份图谱！<br/>
-> 有你的一星⭐、一 Fork🍴，我们就能走得更远！【虚位以待...】<br/>
+> 🧑‍💻👩‍💻 欢迎更多开发者一起来参与完善这份图谱！`<br/>`
+> 有你的一星⭐、一 Fork🍴，我们就能走得更远！【虚位以待...】`<br/>`
 
 <!--
 ### Stargazers
@@ -273,13 +287,12 @@
 
 ## 联系我们
 
-[-Email-]<br/>
+[-Email-]`<br/>`
 
-<gonglei007@hotmail.com> <br>
+[gonglei007@hotmail.com](mailto:gonglei007@hotmail.com) [gonglei007@hotmail.com](mailto:gonglei007@hotmail.com)
 
-[-微信-]<br/>
+[-微信-]`<br/>`
 
 <img src="images/联系人-G.L.png?raw=true" alt="drawing" width="96"/>
 
-<br/><br/>
-
+`<br/><br/>`
